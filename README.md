@@ -1,7 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Natural Language Processing and Multi-modal Learning.
+- 🌱 I’m currently interested in Large Language Models and Parameter-Efficient Fine-Tuning techniques.
+
 <!--
-**Xavier-Shaw/Xavier-Shaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tongxiao2002/tongxiao2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
